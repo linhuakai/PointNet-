@@ -16,3 +16,5 @@ title={An Improved Method for Intelligent Rock Discontinuities Recognition Based
 author={Deng, Hui},
 journal={Computers & Geosciences}
 }
+## Code Availability
+The source code of this work is publicly available at: https://github.com/linhuakai/PointNet-
