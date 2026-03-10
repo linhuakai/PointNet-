@@ -18,3 +18,5 @@ journal={Computers & Geosciences}
 }
 ## Code Availability
 The source code of this work is publicly available at: https://github.com/linhuakai/PointNet-
+## Quick Test
+To verify that the model runs correctly, run: python quick_test.py
