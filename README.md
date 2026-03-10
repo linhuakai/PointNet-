@@ -20,3 +20,5 @@ journal={Computers & Geosciences}
 The source code of this work is publicly available at: https://github.com/linhuakai/PointNet-
 ## Quick Test
 To verify that the model runs correctly, run: python quick_test.py
+## Region Grow
+python region_grow.py
