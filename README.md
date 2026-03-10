@@ -1,4 +1,4 @@
-# PointNet-based Rock Discontinuity Recognition
+# PointNet++-based Rock Discontinuity Recognition
 This repository contains the implementation of the paper:
 **An Improved Method for Intelligent Rock Discontinuities Recognition Based on the PointNet++ Deep Learning Network**
 ## Environment
